@@ -1,0 +1,28 @@
+body {
+    background-color: lavender;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+  }
+.clearfix
+{
+    margin-top:30px;
+}
+.Block
+{
+ display: inline;
+}
+.blockquote
+{
+margin-top: 20px;
+}
+.form-floating{
+   margin-left: 20px;
+   margin-right: 20px;
+   margin-top :100px;
+}
+.b1
+{
+  margin:0 0 20 20;
+
+}
